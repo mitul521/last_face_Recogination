@@ -1,0 +1,38 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    top: 0px;
+    box-shadow: 5px 5px 25px gray ;
+}
+.headingdiv{
+    font-size: 25px;
+    float: none;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 25px;
+    text-align: center;
+}
+.heading_div{
+    font-size: 20;
+    text-align: center;
+}
+.result{
+    box-shadow: 10px 10px 20px purple;
+    font-size: 15px;
+}
+.footer{
+    position: fixed;
+    color: lightblue;
+    bottom: 0px;
+    width: 100%;
+    background-color: darkgreen;
+    line-height: 25px;
+    text-align: center;
+    font-size: 15px;
+}
+canvas{
+    box-shadow: 10px 10px 22px blue;
+    border-radius: 25px;
+    margin-top: 130px;
+}
